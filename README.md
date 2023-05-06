@@ -1,5 +1,7 @@
 # Modified SM-2 Scheduler
 
+**See the `master` branch for the code**
+
 A command-line application implementing a modified version of the SM-2 algorithm for spaced repetition learning. The SM-2 algorithm helps to determine the optimal intervals for reviewing flashcards or other learning materials to maximize retention. This modified version provides saner defaults for the learning phase.
 ## Features
 
